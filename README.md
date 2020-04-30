@@ -2,6 +2,6 @@
 _______
 
 Authors:
-Andrew Fong
-Ahmed Saudi
-Kareem Elmarakby
+Andrew Fong\n
+Ahmed Saudi\n
+Kareem Elmarakby\n
